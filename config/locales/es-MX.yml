@@ -605,6 +605,7 @@ es-MX:
     failed_payment_attempts:
     filename: Nombre de archivo
     fill_in_customer_info: Por favor complete la información del cliente
+    filter: Filtrar
     filter_results: Filtrar resultados
     finalize: Finalizar
     finalized:
